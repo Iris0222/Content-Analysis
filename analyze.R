@@ -1,5 +1,5 @@
 
-wkDir = "C:/面試/文本分析"
+wkDir = "C:/文本分析"
 setwd(wkDir)
 library( "stringr" ) 
 library(RCurl)
