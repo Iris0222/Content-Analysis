@@ -2,7 +2,7 @@
 # ctrl + shift + C 註解
 
 
-wkDir = "C:/面試/文本分析"
+wkDir = "C:/文本分析"
 setwd(wkDir)
 # 
 # library(RCurl)
